@@ -23,3 +23,7 @@
 - Then Run `smile_detection.py` using Thonny Editor ( you can use your fav editor in this case)
 - Finally just smile :) 
 
+## 🖍📐 Schematics
+
+
+![Schematic](circuit_diagram.jpg)
