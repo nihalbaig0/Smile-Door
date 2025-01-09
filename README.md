@@ -8,7 +8,7 @@
 
 [Watch the Video](https://youtu.be/4RrMKNeumP0)
 
-[Smile Door](smiledoor.png)
+![Smile Door](smiledoor.png)
 
 ## 🛠 Components Used
 
